@@ -8,8 +8,8 @@
 
 Following are some of the NLP related tasks that I have tried to implement using PyTorch:
 
-- [Neural Machine Translation](##neural-machine-translation)
-- [Semantic Slot Filling](##semantic-slot-filling)
+- [Neural Machine Translation](#neural-machine-translation)
+- [Semantic Slot Filling](#semantic-slot-filling)
 
 ## Neural Machine Translation 
 
