@@ -37,7 +37,7 @@ Semantic slot filling is one of the most challenging problems in spoken language
 
 The task at hand is to annotate (tag) each word of a query whether it belongs to a specific item of information (slot), and which one.
 
-The model that I have tried to implement is a recurrent model consisting of an embedding layer, a recurrent GRU cell, and a dense layer to compute the posterior probabilities.
+The model that I have tried to implement is a recurrent model consisting of an embedding layer, a bidirectional GRU cell, and a dense layer to compute the posterior probabilities.
 
 __SNIPS__ is a dataset by Snips.ai for Intent Detection and Slot Filling benchmarking available from the [github page](https://github.com/snipsco/nlu-benchmark). This dataset contains several day to day user command categories (e.g. play a song, book a restaurant). I have used a slightly pre-processed version of this dataset, which can be found [here](https://github.com/tezansahu/NLP_Projects/tree/master/Semantic%20Slot%20Filling/snips).
 
