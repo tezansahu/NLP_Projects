@@ -23,7 +23,7 @@ The __dataset__ was obtained from [__Tab-delimited Bilingual Sentence Pairs__](h
 
 Here is the [__IPython Notebook__ for the project](https://github.com/tezansahu/NLP_Projects/blob/master/Eng-Hin%20Machine%20Translation%20using%20Seq2Seq/Eng_to_Hin_Translation_using_Seq2Seq.ipynb).
 
-The __trained models__ can be found here: [Encoder](hhttps://github.com/tezansahu/NLP_Projects/blob/master/Eng-Hin%20Machine%20Translation%20using%20Seq2Seq/eng_to_hin_encoder) & [Decoder](https://github.com/tezansahu/NLP_Projects/blob/master/Eng-Hin%20Machine%20Translation%20using%20Seq2Seq/eng_to_hin_attn_decoder).
+The __trained models__ can be found here: [Encoder](https://github.com/tezansahu/NLP_Projects/blob/master/Eng-Hin%20Machine%20Translation%20using%20Seq2Seq/eng_to_hin_encoder) & [Decoder](https://github.com/tezansahu/NLP_Projects/blob/master/Eng-Hin%20Machine%20Translation%20using%20Seq2Seq/eng_to_hin_attn_decoder).
 
 __References:__
 - [Neural Machine Translation by Jointly Learning to Align & Translate](https://arxiv.org/pdf/1409.0473.pdf) by Bahdanau, Cho & Bengio
