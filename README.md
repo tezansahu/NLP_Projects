@@ -1,6 +1,6 @@
 <h1 align="center">NLP Projects</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Made%20With-PyTorch-blue"></img>
+    <img src="https://img.shields.io/badge/Made%20With-PyTorch-blue">
 </p>
 <p align="center">Neural Models for some NLP related tasks implemented using PyTorch</p>
 
